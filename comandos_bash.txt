@@ -6,3 +6,5 @@ rm → remove arquivo e ou diretório
 rm → remove de forma recursiva e forçada todos diretórios
 
 fiz alterecao aqui
+
+commit 1
