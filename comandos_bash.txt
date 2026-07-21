@@ -8,3 +8,4 @@ rm → remove de forma recursiva e forçada todos diretórios
 fiz alterecao aqui
 
 commit 1
+commit 2
