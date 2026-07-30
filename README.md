@@ -8,3 +8,5 @@ Um curso para iniciante aprenderem a trabalhar com versionamento de código e re
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e VS code
 
+
+pessoas participantes: gustha
